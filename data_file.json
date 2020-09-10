@@ -1,0 +1,17 @@
+{
+    "operacao": "/",
+    "left": {
+        "operacao": "-",
+        "op1": 75.0,
+        "op2": 52.0
+    },
+    "right": {
+        "operacao": "*",
+        "left": {
+            "operacao": "+",
+            "op1": 32.0,
+            "op2": 12.0
+        },
+        "op2": 3.0
+    }
+}
